@@ -1,6 +1,3 @@
-### AI Enterprise Maturity
-- [Algorithmia - Roadmap to Machine Learning Maturity](https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/)
-
 ### Python, Visualization
 - [Visualiation in Python with Matplotlib](https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib)
 
@@ -10,3 +7,6 @@
 
 ### Books
 - [3 Machine Learning book that helped me level up as a data scientist](http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/)
+
+### AI/ML/DS Enterprise Maturity
+- [Algorithmia - Roadmap to Machine Learning Maturity](https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/)
