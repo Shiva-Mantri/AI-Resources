@@ -7,10 +7,10 @@
 ### Books
 - [3 Machine Learning book that helped me level up as a data scientist](http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/)
 
-### AI Tutorials
+### Tutorials
 - [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
 
-### AI/ML/DS Enterprise Maturity
+### Enterprise Maturity
 - [Algorithmia - Roadmap to Machine Learning Maturity](https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/)
 
 ## PYTHON
