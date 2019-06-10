@@ -18,6 +18,7 @@
 
 #### Tutorials
 - [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
+- [ML for Coders](http://course18.fast.ai/ml)
 
 
 ## Enterprise AI/Maturity
