@@ -1,3 +1,12 @@
+## AI Math
+- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra);
+
+
+## Python DS
+#### Python, Visualization
+- [Visualiation in Python with Matplotlib](https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib)
+
+
 ## AI ML DL
 #### Compilations
 - [Best of Machine Learning - Books, Courses, Jobs, News, Blogs and everything else](https://bestofml.com/)
@@ -11,15 +20,6 @@
 - [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
 
 
-## AI Math
-- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra);
-
-
 ## Enterprise AI/Maturity
 - [Algorithmia - Roadmap to Machine Learning Maturity](https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/); [Other blogs on Enterprise AI deployment and Ops](https://blog.algorithmia.com/)
 - [Deploying AI Models](https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html)
-
-
-## Python DS
-#### Python, Visualization
-- [Visualiation in Python with Matplotlib](https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib)
