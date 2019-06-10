@@ -1,4 +1,4 @@
-## AI/ML/DS
+## __AI ML DL__
 ### Compilations
 - [Best of Machine Learning - Books, Courses, Jobs, News, Blogs and everything else](https://bestofml.com/)
 - [Analytics Vidhya - The 25 Best Data Science and Machine Learning GitHub Repositories from 2018](https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/)
@@ -10,10 +10,17 @@
 ### Tutorials
 - [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
 
-### Enterprise AI/Maturity
+
+## __AI Math__
+- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra);
+- [Deploying AI Models](https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html)
+
+
+## __Enterprise AI/Maturity__
 - [Algorithmia - Roadmap to Machine Learning Maturity](https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/); [Other blogs on Enterprise AI deployment and Ops](https://blog.algorithmia.com/)
 - [Deploying AI Models](https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html)
 
-## PYTHON
+
+## __Python DS__
 ### Python, Visualization
 - [Visualiation in Python with Matplotlib](https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib)
