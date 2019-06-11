@@ -19,6 +19,7 @@
 #### Tutorials
 - [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
 - [ML for Coders](http://course18.fast.ai/ml)
+- [Kaggle ML Course](https://www.kaggle.com/learn/overview)
 
 
 ## Enterprise AI/Maturity
