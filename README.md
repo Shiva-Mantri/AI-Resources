@@ -2,9 +2,13 @@
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra);
 
 
-## Python DS
+## Python
 #### Python, Visualization
 - [Visualiation in Python with Matplotlib](https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib)
+
+## Data Science
+#### Tutorials
+- [NY Times Course](https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/)
 
 
 ## AI ML DL
