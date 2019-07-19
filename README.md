@@ -19,6 +19,7 @@
 
 #### Books
 - [3 Machine Learning book that helped me level up as a data scientist](http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/)
+- [10 Books to Learn Machine Learning](https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL)
 
 #### Tutorials
 - [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
