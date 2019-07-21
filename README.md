@@ -22,9 +22,10 @@
 - [10 Books to Learn Machine Learning](https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL)
 
 #### Tutorials
-- [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
+- [Google AI Resources](https://ai.google/education/)
 - [ML for Coders](http://course18.fast.ai/ml)
 - [Kaggle ML Course](https://www.kaggle.com/learn/overview)
+- [Google Tutorial on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning)
 
 
 ## Enterprise AI/Maturity
