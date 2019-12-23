@@ -22,6 +22,7 @@
 - [10 Books to Learn Machine Learning](https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL)
 
 #### Tutorials
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Google AI Resources](https://ai.google/education/)
 - [ML for Coders](http://course18.fast.ai/ml)
 - [Kaggle ML Course](https://www.kaggle.com/learn/overview)
