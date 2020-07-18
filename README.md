@@ -1,3 +1,4 @@
+## INTRODUCTION
 
 ### NOTES
 - AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
