@@ -8,6 +8,7 @@
 - Best of Machine Learning - Books, Courses, Jobs, News, Blogs and everything else - https://bestofml.com/
 - Analytics Vidhya - The 25 Best Data Science and Machine Learning GitHub Repositories from 2018 - https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/
 - Brylev Kirill - Resources to learn more about Machine Learning and Artificial Intelligence - https://github.com/brylevkirill/notes
+- https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 
 ### Books
 - 3 Machine Learning book that helped me level up as a data scientist - http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/
