@@ -2,6 +2,7 @@
 
 ### NOTES
 - AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
+- AI/ML tools, hosted solutions - https://github.com/shivamantrik23/AI-Resources/wiki/AI-ML-TOOLS,-HOSTED-SOLUTIONS
 
 ### Compilations
 - Best of Machine Learning - Books, Courses, Jobs, News, Blogs and everything else - https://bestofml.com/
