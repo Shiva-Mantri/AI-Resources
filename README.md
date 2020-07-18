@@ -13,6 +13,7 @@
 ### Books
 - 3 Machine Learning book that helped me level up as a data scientist - http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/
 - 10 Books to Learn Machine Learning - https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL
+- Free Books - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
 ### Tutorials
 - Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
