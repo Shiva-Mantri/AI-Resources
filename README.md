@@ -11,6 +11,11 @@
 - https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 
 ### Books
+- Mathematics for Machine Learning - https://mml-book.com/
+- Deep Learning Book - https://www.deeplearningbook.org/
+- Dive into Deep Learning - https://d2l.ai/
+- RNN - https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+- An elaborate list - https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 - 3 Machine Learning book that helped me level up as a data scientist - http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/
 - 10 Books to Learn Machine Learning - https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL
 - Free Books - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
