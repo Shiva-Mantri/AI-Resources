@@ -10,6 +10,7 @@
 - Analytics Vidhya - The 25 Best Data Science and Machine Learning GitHub Repositories from 2018 - https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/
 - Brylev Kirill - Resources to learn more about Machine Learning and Artificial Intelligence - https://github.com/brylevkirill/notes
 - https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
+- Erik Linder-Norén - https://github.com/eriklindernoren/ML-From-Scratch
 
 ### Books
 - Mathematics for Machine Learning - https://mml-book.com/
