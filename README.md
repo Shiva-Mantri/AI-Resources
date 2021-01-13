@@ -4,6 +4,10 @@
 - AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
 - AI/ML tools, hosted solutions - https://github.com/shivamantrik23/AI-Resources/wiki/AI-ML-TOOLS,-HOSTED-SOLUTIONS
 
+### Learning Paths/Roadmaps/Mindmaps
+- https://github.com/dformoso/machine-learning-mindmap - A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning
+- https://github.com/mrdbourke/machine-learning-roadmap - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+
 ### Compilations
 - Over 150 of the ML, NLP & Python tutorials - https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn
 - Best of Machine Learning - Books, Courses, Jobs, News, Blogs and everything else - https://bestofml.com/
