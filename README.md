@@ -1,9 +1,5 @@
 ## INTRODUCTION
 
-### NOTES
-- AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
-- AI/ML tools, hosted solutions - https://github.com/shivamantrik23/AI-Resources/wiki/AI-ML-TOOLS,-HOSTED-SOLUTIONS
-
 ### Learning Paths/Roadmaps/Mindmaps
 - https://github.com/dformoso/machine-learning-mindmap - A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning
 - https://github.com/mrdbourke/machine-learning-roadmap - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
@@ -52,3 +48,7 @@
 ## Data Science
 #### Tutorials
 - NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
+
+## My Notes
+- AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
+- AI/ML tools, hosted solutions - https://github.com/shivamantrik23/AI-Resources/wiki/AI-ML-TOOLS,-HOSTED-SOLUTIONS
