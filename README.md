@@ -1,5 +1,4 @@
-## AI RESOURCES
-
+## INTRODUCTION TO AI
 
 ### News/Blogs
 - https://www.zillow.com/tech/
