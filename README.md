@@ -1,5 +1,10 @@
 ## INTRODUCTION
 
+
+### News/Blogs
+- https://www.zillow.com/tech/
+- https://ai.facebook.com/
+
 ### Learning Paths/Roadmaps/Mindmaps
 - https://github.com/dformoso/machine-learning-mindmap - A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning
 - https://github.com/mrdbourke/machine-learning-roadmap - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
