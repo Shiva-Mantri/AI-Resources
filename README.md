@@ -1,4 +1,4 @@
-## INTRODUCTION
+## AI RESOURCES
 
 
 ### News/Blogs
