@@ -4,6 +4,14 @@
 - https://www.zillow.com/tech/
 - https://ai.facebook.com/
 
+### Tutorials/Courses
+- Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
+- Google AI Resources - https://ai.google/education/
+- ML for Coders - http://course18.fast.ai/ml
+- Kaggle ML Course - https://www.kaggle.com/learn/overview
+- Google Tutorial on Machine Learning - https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning
+- Machine Learning Tokyo AI Curriculum - https://github.com/Machine-Learning-Tokyo/AI_Curriculum
+
 ### Learning Paths/Roadmaps/Mindmaps
 - https://github.com/dformoso/machine-learning-mindmap - A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning
 - https://github.com/mrdbourke/machine-learning-roadmap - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
@@ -25,13 +33,6 @@
 - 3 Machine Learning book that helped me level up as a data scientist - http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/
 - 10 Books to Learn Machine Learning - https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL
 - Free Books - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
-
-### Tutorials
-- Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
-- Google AI Resources - https://ai.google/education/
-- ML for Coders - http://course18.fast.ai/ml
-- Kaggle ML Course - https://www.kaggle.com/learn/overview
-- Google Tutorial on Machine Learning - https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning
 
 ### Deploying ML Models
 - Full Stack Deep Learning - https://course.fullstackdeeplearning.com/
