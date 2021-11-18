@@ -4,6 +4,9 @@
 - https://www.zillow.com/tech/
 - https://ai.facebook.com/
 
+### Basics
+- Kaggle 30 Days of AI - https://www.kaggle.com/thirty-days-of-ml-assignments
+
 ### Tutorials/Courses
 - Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
 - Google AI Resources - https://ai.google/education/
