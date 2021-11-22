@@ -1,10 +1,10 @@
 ## Contents
-- Introduction to AI
-- NLP
-- Enterprise AI/Maturity
-- AI Math
-- Python
-- Data science
+- [Introduction to AI](#introduction-to-ai)
+- [NLP](#nlp)
+- [Enterprise AI](#enterprise-ai)
+- [AI Math](#ai-math)
+- [Python](#python)
+- [Data science](#data-science)
 
 ## INTRODUCTION TO AI
 
@@ -53,7 +53,7 @@
 ### Compilations
 - By Elvis Saravia - My Recommendations for Getting Started with NLP - https://elvissaravia.substack.com/p/my-recommendations-for-getting-started
  
-## Enterprise AI/Maturity
+## Enterprise AI
 - Algorithmia - Roadmap to Machine Learning Maturity - https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/; [Other blogs on Enterprise AI deployment and Ops - https://blog.algorithmia.com/
 - Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
 
