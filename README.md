@@ -44,7 +44,7 @@
 
 ### Compilations
 - By Elvis Saravia - My Recommendations for Getting Started with NLP - https://elvissaravia.substack.com/p/my-recommendations-for-getting-started
-- 
+ 
 ## Enterprise AI/Maturity
 - Algorithmia - Roadmap to Machine Learning Maturity - https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/; [Other blogs on Enterprise AI deployment and Ops - https://blog.algorithmia.com/
 - Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
