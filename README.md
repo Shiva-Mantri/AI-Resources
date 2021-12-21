@@ -2,10 +2,11 @@
 - [Introduction to AI](#introduction-to-ai)
 - [NLP](#nlp)
 - [Enterprise AI](#enterprise-ai)
+- [Containers and Kubernetes](#Containers-and-Kubernetes)
 - [AI Math](#ai-math)
 - [Python](#python)
 - [Data science](#data-science)
-- [Containers and Kubernetes](#Containers-and-Kubernetes)
+
 
 ## INTRODUCTION TO AI
 
@@ -58,20 +59,6 @@
 - Algorithmia - Roadmap to Machine Learning Maturity - https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/; [Other blogs on Enterprise AI deployment and Ops - https://blog.algorithmia.com/
 - Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
 
-## AI Math
-- Calculus Made Easy by Silvanus P. Thompson - https://calculusmadeeasy.org/
-- Basics of Linear Algebra for Machine Learning - https://machinelearningmastery.com/linear_algebra_for_machine_learning/  by Jason Brownlee - Amazing and simple introduction to Math for AI with examples and suggestions for further reading
-- Interactive Linear Algebra - http://textbooks.math.gatech.edu/ila/ by Dan Margalit, Joseph Rabinoff - Georgia Institute of Technology. [pdf - https://textbooks.math.gatech.edu/ila/ila.pdf
-- Computational Linear Algebra for Coders - https://github.com/fastai/numerical-linear-algebra
-
-## Python
-#### Python, Visualization
-- Visualiation in Python with Matplotlib - https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib
-
-## Data Science
-#### Tutorials
-- NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
-
 ## Containers and Kubernetes
 #### Basics and Architecture
 - https://www.c-sharpcorner.com/article/getting-started-with-kubernetes-part1/
@@ -95,6 +82,20 @@
 #### Advanced
 - Docker and Kubernetes is a rabbit hole. That is a whole stack altogether. K8s and its management is a full time job role and involves strategy, setup and operation.
 - You can learn this topic in depth if this is the field you need/want to be in. Otherwise, focus your energy in your primary area of interest and limit scope of this topic to basics.
+
+## AI Math
+- Calculus Made Easy by Silvanus P. Thompson - https://calculusmadeeasy.org/
+- Basics of Linear Algebra for Machine Learning - https://machinelearningmastery.com/linear_algebra_for_machine_learning/  by Jason Brownlee - Amazing and simple introduction to Math for AI with examples and suggestions for further reading
+- Interactive Linear Algebra - http://textbooks.math.gatech.edu/ila/ by Dan Margalit, Joseph Rabinoff - Georgia Institute of Technology. [pdf - https://textbooks.math.gatech.edu/ila/ila.pdf
+- Computational Linear Algebra for Coders - https://github.com/fastai/numerical-linear-algebra
+
+## Python
+#### Python, Visualization
+- Visualiation in Python with Matplotlib - https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib
+
+## Data Science
+#### Tutorials
+- NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
 
 ## My Notes
 - AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
