@@ -5,6 +5,7 @@
 - [AI Math](#ai-math)
 - [Python](#python)
 - [Data science](#data-science)
+- [Containers and Kubernetes](#Containers-and-Kubernetes)
 
 ## INTRODUCTION TO AI
 
@@ -70,6 +71,30 @@
 ## Data Science
 #### Tutorials
 - NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
+
+## Containers and Kubernetes
+#### Basics and Architecture
+- https://www.c-sharpcorner.com/article/getting-started-with-kubernetes-part1/
+- https://www.c-sharpcorner.com/article/getting-started-with-kubernetes-part2/
+- https://phoenixnap.com/kb/understanding-kubernetes-architecture-diagrams
+
+#### Containers – Provides ability to abstract software from infrastructure
+- Docker, RKT, MS Hyper-v and Windows containers
+- https://www.aquasec.com/cloud-native-academy/container-platforms/container-engines/
+- https://www.aquasec.com/cloud-native-academy/container-platforms/container-platforms-6-best-practices-and-15-top-solutions/
+ 
+#### Container Orchestrators – Provides ability to manage the swarm of containers
+- Kubernetes (K8s), Docker Swarm, Nomad, K3s+k3d (for running K8s on VM and Docker respectively on local machine)
+- Kubernetes - https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-complete-guide/
+- Can be Container-as-a-Service (AWS Fargate), Managed (AWS EKS), Platform-as-a-Service (RH OpenShift) or Light Weight (Docker Swarm)
+- Alternatives - https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-alternatives/
+ 
+#### Container Management Platforms – Provides ability to deliver and manage Kubernetes Infrastructure
+- RH OpenShift Container Platform, VMWare Tanzu, Google Anthos, Rancher
+ 
+#### Advanced
+- Docker and Kubernetes is a rabbit hole. That is a whole stack altogether. K8s and its management is a full time job role and involves strategy, setup and operation.
+- You can learn this topic in depth if this is the field you need/want to be in. Otherwise, focus your energy in your primary area of interest and limit scope of this topic to basics.
 
 ## My Notes
 - AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
