@@ -38,53 +38,59 @@
 - Erik Linder-Norén - https://github.com/eriklindernoren/ML-From-Scratch
 
 ### Books
-- Mathematics for Machine Learning - https://mml-book.com/
+- Compilation of 100+ ebooks - https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html
+- An elaborate list - https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
+- Free Books - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 - Deep Learning Book - https://www.deeplearningbook.org/
 - Dive into Deep Learning - https://d2l.ai/
 - RNN - https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
-- An elaborate list - https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
 - 3 Machine Learning book that helped me level up as a data scientist - http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/
 - 10 Books to Learn Machine Learning - https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL
-- Free Books - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
-
-### Deploying ML Models
-- Full Stack Deep Learning - https://course.fullstackdeeplearning.com/
 
 ## NLP
+### Courses
+- Kaggle NLP - https://www.kaggle.com/learn/natural-language-processing
+- Advanced NLP with Spacy - https://course.spacy.io/en/
+- Udemy NLP by Jose Portilla - https://www.udemy.com/course/nlp-natural-language-processing-with-python/
 
 ### Compilations
 - By Elvis Saravia - My Recommendations for Getting Started with NLP - https://elvissaravia.substack.com/p/my-recommendations-for-getting-started
- 
-## Enterprise AI
-- Algorithmia - Roadmap to Machine Learning Maturity - https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/; [Other blogs on Enterprise AI deployment and Ops - https://blog.algorithmia.com/
-- Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
 
-## Containers and Kubernetes
-#### Basics and Architecture
+## Deploying AI Models
+- Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
+- Full Stack Deep Learning - https://course.fullstackdeeplearning.com/
+- ML Ops - https://mlops.community/learn/
+
+#### Containers and Kubernetes
+##### Basics and Architecture
 - https://www.c-sharpcorner.com/article/getting-started-with-kubernetes-part1/
 - https://www.c-sharpcorner.com/article/getting-started-with-kubernetes-part2/
 - https://phoenixnap.com/kb/understanding-kubernetes-architecture-diagrams
 
-#### Containers – Provides ability to abstract software from infrastructure
+##### Containers – Provides ability to abstract software from infrastructure
 - Docker, RKT, MS Hyper-v and Windows containers
 - https://www.aquasec.com/cloud-native-academy/container-platforms/container-engines/
 - https://www.aquasec.com/cloud-native-academy/container-platforms/container-platforms-6-best-practices-and-15-top-solutions/
  
-#### Container Orchestrators – Provides ability to manage the swarm of containers
+##### Container Orchestrators – Provides ability to manage the swarm of containers
 - Kubernetes (K8s), Docker Swarm, Nomad, K3s+k3d (for running K8s on VM and Docker respectively on local machine)
 - Kubernetes - https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-complete-guide/
 - Can be Container-as-a-Service (AWS Fargate), Managed (AWS EKS), Platform-as-a-Service (RH OpenShift) or Light Weight (Docker Swarm)
 - Alternatives - https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-alternatives/
  
-#### Container Management Platforms – Provides ability to deliver and manage Kubernetes Infrastructure
+##### Container Management Platforms – Provides ability to deliver and manage Kubernetes Infrastructure
 - RH OpenShift Container Platform, VMWare Tanzu, Google Anthos, Rancher
  
-#### Advanced
+##### Advanced
 - Docker and Kubernetes is a rabbit hole. That is a whole stack altogether. K8s and its management is a full time job role and involves strategy, setup and operation.
 - You can learn this topic in depth if this is the field you need/want to be in. Otherwise, focus your energy in your primary area of interest and limit scope of this topic to basics.
 
+## Enterprise AI
+- Algorithmia - Roadmap to Machine Learning Maturity - https://blog.algorithmia.com/navigating-the-machine-learning-roadmap/; [Other blogs on Enterprise AI deployment and Ops - https://blog.algorithmia.com/
+
 ## AI Math
 - Calculus Made Easy by Silvanus P. Thompson - https://calculusmadeeasy.org/
+- Mathematics for Machine Learning - https://mml-book.com/
 - Basics of Linear Algebra for Machine Learning - https://machinelearningmastery.com/linear_algebra_for_machine_learning/  by Jason Brownlee - Amazing and simple introduction to Math for AI with examples and suggestions for further reading
 - Interactive Linear Algebra - http://textbooks.math.gatech.edu/ila/ by Dan Margalit, Joseph Rabinoff - Georgia Institute of Technology. [pdf - https://textbooks.math.gatech.edu/ila/ila.pdf
 - Computational Linear Algebra for Coders - https://github.com/fastai/numerical-linear-algebra
