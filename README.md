@@ -2,7 +2,7 @@
 - [Introduction to AI](#introduction-to-ai)
 - [NLP](#nlp)
 - [Enterprise AI](#enterprise-ai)
-- [Containers and Kubernetes](#Containers-and-Kubernetes)
+- [Deploying AI Models](#Deploying-AI-Models)
 - [AI Math](#ai-math)
 - [Python](#python)
 - [Data science](#data-science)
@@ -16,6 +16,7 @@
 
 ### Basics
 - Kaggle 30 Days of AI - https://www.kaggle.com/thirty-days-of-ml-assignments
+- AI/ML Basics for beginners - Making Friends with Machine Learning by Cassie Kozyrkov (Google) - https://youtu.be/lYWt-aCnE2U + series
 
 ### Tutorials/Courses
 - Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
@@ -25,7 +26,11 @@
 - Google Tutorial on Machine Learning - https://www.datasciencecentral.com/profiles/blogs/google-tutorial-on-machine-learning
 - Machine Learning Tokyo AI Curriculum - https://github.com/Machine-Learning-Tokyo/AI_Curriculum
 
+#### AI/ML/DL/DS courses
+- ML Youtube courses https://github.com/dair-ai/ML-YouTube-Courses (https://twitter.com/omarsar0/status/1474349127035199488?s=20)
+
 ### Learning Paths/Roadmaps/Mindmaps
+- Deep Learning and ML Books - https://theaisummer.com/deep-learning-books-2022/ (https://twitter.com/theaisummer/status/1473615257067298818?s=20)
 - https://github.com/dformoso/machine-learning-mindmap - A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning
 - https://github.com/mrdbourke/machine-learning-roadmap - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 
@@ -40,12 +45,13 @@
 ### Books
 - Compilation of 100+ ebooks - https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html
 - An elaborate list - https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
-- Free Books - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+- A story about machine learning - Fundamentals of ML - https://mlstory.org/
 - Deep Learning Book - https://www.deeplearningbook.org/
 - Dive into Deep Learning - https://d2l.ai/
 - RNN - https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 - 3 Machine Learning book that helped me level up as a data scientist - http://www.datastuff.tech/data-science/3-machine-learning-books-that-helped-me-level-up-as-a-data-scientist/
 - 10 Books to Learn Machine Learning - https://www.youtube.com/watch?v=1lxHH1UBTBU&list=WL
+- Free Books - https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
 ## NLP
 ### Courses
