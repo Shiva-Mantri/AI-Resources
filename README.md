@@ -6,6 +6,7 @@
 - [AI Math](#ai-math)
 - [Python](#python)
 - [Data science](#data-science)
+- [AI Interview](#ai-interview)
 
 
 ## INTRODUCTION TO AI
@@ -109,6 +110,6 @@
 #### Tutorials
 - NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
 
-## My Notes
-- AI Tips - https://github.com/shivamantrik23/AI-Resources/wiki/AI-TIDBITS
-- AI/ML tools, hosted solutions - https://github.com/shivamantrik23/AI-Resources/wiki/AI-ML-TOOLS,-HOSTED-SOLUTIONS
+## AI Interview
+- Introduction to ML Interviews - Book by Chip Huyen - https://huyenchip.com/ml-interviews-book/
+
