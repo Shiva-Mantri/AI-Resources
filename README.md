@@ -67,6 +67,7 @@
 - Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
 - Full Stack Deep Learning - https://course.fullstackdeeplearning.com/
 - ML Ops - https://mlops.community/learn/
+- Real-time machine learning: challenges and solutions by Huyen Chip - https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html
 
 #### Containers and Kubernetes
 ##### Basics and Architecture
@@ -112,4 +113,5 @@
 
 ## AI Interview
 - Introduction to ML Interviews - Book by Chip Huyen - https://huyenchip.com/ml-interviews-book/
+- Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI by Shlomo Kashani, Amir Ivry - https://arxiv.org/abs/2201.00650
 
