@@ -3,6 +3,7 @@
 - [NLP](#nlp)
 - [Enterprise AI](#enterprise-ai)
 - [Deploying AI Models](#Deploying-AI-Models)
+  - [ML Ops](#ML-Ops)
 - [AI Math](#ai-math)
 - [Python](#python)
 - [Data science](#data-science)
@@ -66,8 +67,11 @@
 ## Deploying AI Models
 - Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
 - Full Stack Deep Learning - https://course.fullstackdeeplearning.com/
-- ML Ops - https://mlops.community/learn/
 - Real-time machine learning: challenges and solutions by Huyen Chip - https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html
+
+### ML Ops
+- ML Ops - https://mlops.community/learn/
+- Comparision of ML Ops Platforms - https://github.com/thoughtworks/mlops-platforms
 
 #### Containers and Kubernetes
 ##### Basics and Architecture
