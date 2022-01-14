@@ -16,9 +16,15 @@
 - https://www.zillow.com/tech/
 - https://ai.facebook.com/
 
+#### Tip
+- Focus on this or any other learning plan and STICK with it. 
+- Create a mini milestone map. e.g. each milestone should be a week or 15 days long. 
+- This will help in staying on track and not get distracted by new/alternate resources.
+
 ### Basics
 - Kaggle 30 Days of AI - https://www.kaggle.com/thirty-days-of-ml-assignments
 - AI/ML Basics for beginners - Making Friends with Machine Learning by Cassie Kozyrkov (Google) - https://youtu.be/lYWt-aCnE2U + series
+- Basics to Advanced - Deep Learning Adventures - https://www.youtube.com/playlist?list=PL2EBNWEnwV2ciJiH6TmL8v_o42rb65RrN, https://www.youtube.com/c/GeorgeZoto/featured
 
 ### Tutorials/Courses
 - Machine Learning for Software Engineers - https://github.com/ZuzooVn/machine-learning-for-software-engineers
