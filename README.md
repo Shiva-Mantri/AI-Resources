@@ -118,6 +118,9 @@
 - Visualiation in Python with Matplotlib - https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib
 
 ## Data Science
+#### Books
+- (Advanced) Foundations of Data Science (free PDF) - https://www.microsoft.com/en-us/research/video/foundations-of-ds/ - https://www.cs.cornell.edu/jeh/book.pdf
+
 #### Tutorials
 - NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
 
