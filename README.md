@@ -69,6 +69,8 @@
 
 ### Compilations
 - By Elvis Saravia - My Recommendations for Getting Started with NLP - https://elvissaravia.substack.com/p/my-recommendations-for-getting-started
+- Advanced NLP - Speech and Language Processing by Dan Jurafsky & James H. Martin - https://web.stanford.edu/~jurafsky/slp3/
+
 
 ## Deploying AI Models
 - Deploying AI Models - https://www.kdnuggets.com/2019/05/deploy-machine-learning-models-guide.html
