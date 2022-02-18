@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T10:13:55.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="kTAZkChHKucG7sVFYfH9" version="16.6.1" type="github">
-  <diagram id="a2a4jb19CR6dUdZn-9Eb" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-02-18T11:28:14.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="0FSuIOsQXtrzzaYrgF3d" version="16.6.1" type="github" pages="2">
+  <diagram id="a2a4jb19CR6dUdZn-9Eb" name="Tools, Flow">
     <mxGraphModel dx="782" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -9,6 +9,29 @@
         </mxCell>
         <mxCell id="i0Whe7Mssrt0_K8Z1QNL-2" value="&lt;h3&gt;&lt;b&gt;AI ML DATA DESIGN/LANDSCAPE&lt;/b&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="323" y="-1080" width="205" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4wZ8OSLDiBIdzukbMKty" name="Job Roles">
+    <mxGraphModel dx="869" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="dsliJA69AC2y1WkUm3Z2-0" />
+        <mxCell id="dsliJA69AC2y1WkUm3Z2-1" parent="dsliJA69AC2y1WkUm3Z2-0" />
+        <mxCell id="dsliJA69AC2y1WkUm3Z2-2" value="&lt;b&gt;&lt;u&gt;Data Engineer&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Prepares and Maintain Infra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
+          <mxGeometry x="20" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsliJA69AC2y1WkUm3Z2-3" value="Data Analyst&lt;br&gt;Uses data to answer questions and solve problems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsliJA69AC2y1WkUm3Z2-4" value="Analytics Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsliJA69AC2y1WkUm3Z2-5" value="&lt;h2&gt;Data Team&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
+          <mxGeometry x="20" y="40" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o7gh7QCMs30_Cbfeihpv-0" value="Credits: &lt;a href=&quot;https://bit.ly/3oXoSuL&quot;&gt;Data Engineering Zoom Camp&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
+          <mxGeometry x="20" y="150" width="260" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
