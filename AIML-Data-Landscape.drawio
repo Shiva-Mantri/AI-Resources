@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T11:33:27.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="bUXUD29TUAPZMzJ_o01F" version="16.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-21T23:27:11.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BjhFZJT_7pLCOlB7HEfG" version="16.6.1" type="github" pages="2">
   <diagram id="a2a4jb19CR6dUdZn-9Eb" name="Tools, Flow">
-    <mxGraphModel dx="782" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1088" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="i0Whe7Mssrt0_K8Z1QNL-2" value="&lt;h3&gt;&lt;b&gt;AI ML DATA DESIGN/LANDSCAPE&lt;/b&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="323" y="-1080" width="205" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leLisg9o3ogEqdWQf6s7-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;u&gt;DATAMESH&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;font&gt;Decentralized data ownership, instead of centralized warehouse/datalake&lt;br&gt;https://bit.ly/3BSfhL3&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-910" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
