@@ -43,7 +43,7 @@
 - https://github.com/mrdbourke/machine-learning-roadmap - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 
 ### Compilations
-- Over 150 of the ML, NLP & Python tutorials - https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn
+- Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition - https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
 - Best of Machine Learning - Books, Courses, Jobs, News, Blogs and everything else - https://bestofml.com/
 - Analytics Vidhya - The 25 Best Data Science and Machine Learning GitHub Repositories from 2018 - https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/
 - Brylev Kirill - Resources to learn more about Machine Learning and Artificial Intelligence - https://github.com/brylevkirill/notes
