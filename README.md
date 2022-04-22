@@ -5,9 +5,9 @@
 - [Deploying AI Models](#Deploying-AI-Models)
   - [ML Ops](#ML-Ops)
 - [AI Math](#ai-math)
-- [Python](#python)
-- [Data science](#data-science)
 - [AI Interview](#ai-interview)
+- [Data science](#data-science/engineering/analytics)
+- [Python](#python)
 
 
 ## INTRODUCTION TO AI
@@ -115,18 +115,24 @@
 - Interactive Linear Algebra - http://textbooks.math.gatech.edu/ila/ by Dan Margalit, Joseph Rabinoff - Georgia Institute of Technology. [pdf - https://textbooks.math.gatech.edu/ila/ila.pdf
 - Computational Linear Algebra for Coders - https://github.com/fastai/numerical-linear-algebra
 
+## AI Interview
+- Introduction to ML Interviews - Book by Chip Huyen - https://huyenchip.com/ml-interviews-book/
+- Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI by Shlomo Kashani, Amir Ivry - https://arxiv.org/abs/2201.00650
+
+---
+
+## Data Science/Engineering/Analytics
+
+#### Basics
+- Data Engineering Zoom Camp - https://github.com/DataTalksClub/data-engineering-zoomcamp - I highly recommend this course (FYI. I did this). Gives understand various stages and techniques.
+- NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
+
+#### Books
+- (Advanced) Foundations of Data Science (from Microsoft Research Lab) (free pdf) - https://www.microsoft.com/en-us/research/video/foundations-of-ds/ - https://www.cs.cornell.edu/jeh/book.pdf
+
+---
 ## Python
 #### Python, Visualization
 - Visualiation in Python with Matplotlib - https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib
 
-## Data Science
-#### Books
-- (Advanced) Foundations of Data Science (from Microsoft Research Lab) (free pdf) - https://www.microsoft.com/en-us/research/video/foundations-of-ds/ - https://www.cs.cornell.edu/jeh/book.pdf
-
-#### Tutorials
-- NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
-
-## AI Interview
-- Introduction to ML Interviews - Book by Chip Huyen - https://huyenchip.com/ml-interviews-book/
-- Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI by Shlomo Kashani, Amir Ivry - https://arxiv.org/abs/2201.00650
 
