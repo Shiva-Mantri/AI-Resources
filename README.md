@@ -6,7 +6,7 @@
   - [ML Ops](#ML-Ops)
 - [AI Math](#ai-math)
 - [AI Interview](#ai-interview)
-- [Data science](#data-science/engineering/analytics)
+- [Data science](#data-science)
 - [Python](#python)
 
 
@@ -119,13 +119,19 @@
 - Introduction to ML Interviews - Book by Chip Huyen - https://huyenchip.com/ml-interviews-book/
 - Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI by Shlomo Kashani, Amir Ivry - https://arxiv.org/abs/2201.00650
 
+#### Tips
+- Searching for job opening and other ML professions' advice. More from source: http://aiflavours.com/data-science-faq/
+> One of the reasons for that, in my opinion, is that companies often choose the most popular job name which is widely searchable by candidates. Then they put the responsibilities which they see fit for their purposes. This is why you shouldn't close yourself to the opportunities just because the job’s name is not exactly right - rather ask the company precisely about the responsibilities.
+
 ---
 
-## Data Science/Engineering/Analytics
+## Data Science
+Data Science/Engineering/Analytics
 
 #### Basics
 - Data Engineering Zoom Camp - https://github.com/DataTalksClub/data-engineering-zoomcamp - I highly recommend this course (FYI. I did this). Gives understand various stages and techniques.
 - NY Times Course - https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/
+- Data Science FAQ - http://aiflavours.com/data-science-faq/, https://drive.google.com/file/d/1cOaw6iEoS_1zSwzFdyLwfVEmKkvL8yW9/view
 
 #### Books
 - (Advanced) Foundations of Data Science (from Microsoft Research Lab) (free pdf) - https://www.microsoft.com/en-us/research/video/foundations-of-ds/ - https://www.cs.cornell.edu/jeh/book.pdf
