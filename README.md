@@ -18,8 +18,12 @@
 
 #### Tip
 - Focus on this or any other learning plan and STICK with it. 
+- Don't get stuck at the basics, e.g. ML Math/basics. 
+  - Skip if you don't understand. You will encounter and master these topics, as you do hands on.
+- Get hands dirty with a project, e.g. start with a course capstone project and expand it.
+  - Learn as you do.
 - Create a mini milestone map. e.g. each milestone should be a week or 15 days long. 
-- This will help in staying on track and not get distracted by new/alternate resources.
+- This will help in staying on track and not get distracted by new/alternate resources (information overload).
 
 ### Basics
 - Kaggle 30 Days of AI - https://www.kaggle.com/thirty-days-of-ml-assignments
