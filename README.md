@@ -85,6 +85,9 @@
 - ML Ops - https://mlops.community/learn/
 - Comparision of ML Ops Platforms - https://github.com/thoughtworks/mlops-platforms
 
+#### MLOps Compilations
+- A curated list of awesome MLOps tools - https://github.com/kelvins/awesome-mlops
+
 #### Containers and Kubernetes
 ##### Basics and Architecture
 - https://www.c-sharpcorner.com/article/getting-started-with-kubernetes-part1/
