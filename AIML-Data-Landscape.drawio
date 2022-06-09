@@ -1,41 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T23:27:11.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BjhFZJT_7pLCOlB7HEfG" version="16.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-09T09:01:45.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="TKS8FCkcGkZB0ZB4R4RO" version="17.4.0" type="github" pages="2">
   <diagram id="a2a4jb19CR6dUdZn-9Eb" name="Tools, Flow">
-    <mxGraphModel dx="1088" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="2770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i0Whe7Mssrt0_K8Z1QNL-1" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;&lt;u&gt;ARCH DOC TOOLS&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34;&quot;&gt;Draw.io (this)&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34;&quot;&gt;LucdChart&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: &amp;#34;tahoma&amp;#34;&quot;&gt;https://bit.ly/3BzoAPQ&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-1050" width="120" height="90" as="geometry" />
+          <mxGeometry x="10" y="-1690" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="i0Whe7Mssrt0_K8Z1QNL-2" value="&lt;h3&gt;&lt;b&gt;AI ML DATA DESIGN/LANDSCAPE&lt;/b&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="323" y="-1080" width="205" height="20" as="geometry" />
+          <mxGeometry x="380" y="-1690" width="205" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="leLisg9o3ogEqdWQf6s7-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;u&gt;DATAMESH&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;font&gt;Decentralized data ownership, instead of centralized warehouse/datalake&lt;br&gt;https://bit.ly/3BSfhL3&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-910" width="140" height="70" as="geometry" />
+        <mxCell id="leLisg9o3ogEqdWQf6s7-1" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;u&gt;DATAMESH&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;font&gt;Decentralized data ownership, instead of centralized warehouse/datalake&lt;br&gt;https://bit.ly/3BSfhL3&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="-1690" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny-antKESPBMlYx5Cj_F-6" value="&lt;b&gt;&lt;u&gt;Data Engineer&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Prepares and Maintain Infra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny-antKESPBMlYx5Cj_F-7" value="Data Analyst&lt;br&gt;Uses data to answer questions and solve problems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny-antKESPBMlYx5Cj_F-8" value="Analytics Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny-antKESPBMlYx5Cj_F-9" value="&lt;h2&gt;Data Team&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-760" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny-antKESPBMlYx5Cj_F-10" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Credits: &lt;a href=&quot;https://bit.ly/3oXoSuL&quot;&gt;Data Engineering Zoom Camp&lt;/a&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-650" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ny-antKESPBMlYx5Cj_F-11" value="&lt;h3&gt;&lt;b&gt;AI ML DATA JOB ROLES&lt;/b&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-820" width="205" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="4wZ8OSLDiBIdzukbMKty" name="Job Roles">
-    <mxGraphModel dx="1043" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dsliJA69AC2y1WkUm3Z2-0" />
         <mxCell id="dsliJA69AC2y1WkUm3Z2-1" parent="dsliJA69AC2y1WkUm3Z2-0" />
-        <mxCell id="dsliJA69AC2y1WkUm3Z2-2" value="&lt;b&gt;&lt;u&gt;Data Engineer&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Prepares and Maintain Infra" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
-          <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dsliJA69AC2y1WkUm3Z2-3" value="Data Analyst&lt;br&gt;Uses data to answer questions and solve problems" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
-          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dsliJA69AC2y1WkUm3Z2-4" value="Analytics Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
-          <mxGeometry x="150" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dsliJA69AC2y1WkUm3Z2-5" value="&lt;h2&gt;Data Team&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
-          <mxGeometry x="20" y="20" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o7gh7QCMs30_Cbfeihpv-0" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Credits: &lt;a href=&quot;https://bit.ly/3oXoSuL&quot;&gt;Data Engineering Zoom Camp&lt;/a&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dsliJA69AC2y1WkUm3Z2-1">
-          <mxGeometry x="20" y="130" width="150" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
