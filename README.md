@@ -27,6 +27,7 @@
 
 ### Basics
 - Kaggle 30 Days of AI - https://www.kaggle.com/thirty-days-of-ml-assignments
+- ML Basics - Fast self-paced - MLZoomCamp (mlzoomcamp.com - https://github.com/alexeygrigorev/mlbookcamp-code)
 - AI/ML Basics for beginners - Making Friends with Machine Learning by Cassie Kozyrkov (Google) - https://youtu.be/lYWt-aCnE2U + series
 - Basics to Advanced - Deep Learning Adventures - https://www.youtube.com/playlist?list=PL2EBNWEnwV2ciJiH6TmL8v_o42rb65RrN, https://www.youtube.com/c/GeorgeZoto/featured
 
