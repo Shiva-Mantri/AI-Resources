@@ -122,6 +122,7 @@
 - Basics of Linear Algebra for Machine Learning - https://machinelearningmastery.com/linear_algebra_for_machine_learning/  by Jason Brownlee - Amazing and simple introduction to Math for AI with examples and suggestions for further reading
 - Interactive Linear Algebra - http://textbooks.math.gatech.edu/ila/ by Dan Margalit, Joseph Rabinoff - Georgia Institute of Technology. [pdf - https://textbooks.math.gatech.edu/ila/ila.pdf
 - Computational Linear Algebra for Coders - https://github.com/fastai/numerical-linear-algebra
+- Elements of Statistical Learning - Data Mining, Inference, and Prediction - https://hastie.su.domains/ElemStatLearn/
 
 ## AI Interview
 - Introduction to ML Interviews - Book by Chip Huyen - https://huyenchip.com/ml-interviews-book/
