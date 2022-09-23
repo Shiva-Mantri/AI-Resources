@@ -85,7 +85,7 @@
 ### MLOps
 - MLOps - https://mlops.community/learn/
 - Comparision of ML Ops Platforms - https://github.com/thoughtworks/mlops-platforms
-- MLOps Landscape research
+- MLOps Landscape
   - Operationalizing Machine Learning: An Interview Study by Shreya Shankar and et.al - https://twitter.com/sh_reya/status/1572273917640970241, https://arxiv.org/abs/2209.09125
   - MLOps is a mess - https://www.mihaileric.com/posts/mlops-is-a-mess/
 
