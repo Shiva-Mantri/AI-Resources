@@ -3,7 +3,7 @@
 - [NLP](#nlp)
 - [Enterprise AI](#enterprise-ai)
 - [Deploying AI Models](#Deploying-AI-Models)
-  - [ML Ops](#ML-Ops)
+  - [MLOps](#ML-Ops)
 - [AI Math](#ai-math)
 - [AI Interview](#ai-interview)
 - [Data science](#data-science)
@@ -82,9 +82,12 @@
 - Full Stack Deep Learning - https://course.fullstackdeeplearning.com/
 - Real-time machine learning: challenges and solutions by Huyen Chip - https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html
 
-### ML Ops
-- ML Ops - https://mlops.community/learn/
+### MLOps
+- MLOps - https://mlops.community/learn/
 - Comparision of ML Ops Platforms - https://github.com/thoughtworks/mlops-platforms
+- MLOps Landscape research
+  - Operationalizing Machine Learning: An Interview Study by Shreya Shankar and et.al - https://twitter.com/sh_reya/status/1572273917640970241, https://arxiv.org/abs/2209.09125
+  - MLOps is a mess - https://www.mihaileric.com/posts/mlops-is-a-mess/
 
 #### MLOps Compilations
 - A curated list of awesome MLOps tools - https://github.com/kelvins/awesome-mlops
