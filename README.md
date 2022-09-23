@@ -3,7 +3,7 @@
 - [NLP](#nlp)
 - [Enterprise AI](#enterprise-ai)
 - [Deploying AI Models](#Deploying-AI-Models)
-  - [MLOps](#ML-Ops)
+  - [MLOps](#MLOps)
 - [AI Math](#ai-math)
 - [AI Interview](#ai-interview)
 - [Data science](#data-science)
