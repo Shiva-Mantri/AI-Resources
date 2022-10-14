@@ -8,7 +8,7 @@
 - [AI Interview](#ai-interview)
 - [Data science](#data-science)
 - [Python](#python)
-- [Foundations of CS](#foundations-of-CS)
+- [ETC](#ETC)
 
 
 ## INTRODUCTION TO AI
@@ -155,7 +155,8 @@ Data Science/Engineering/Analytics
 - Visualiation in Python with Matplotlib - https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib
 
 ---
-## Foundations of CS
+## ETC
 - The Missing Semester of Your CS Education - https://missing.csail.mit.edu/ - How to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
-
-
+- Cheatsheets
+  - https://www.datacamp.com/cheat-sheet - https://www.google.com/search?q=site%3Awww.datacamp.com+cheat+sheet
+  - Pandas - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
