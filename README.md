@@ -8,6 +8,7 @@
 - [AI Interview](#ai-interview)
 - [Data science](#data-science)
 - [Python](#python)
+- [Foundations of CS](#foundations-of-CS)
 
 
 ## INTRODUCTION TO AI
@@ -152,5 +153,9 @@ Data Science/Engineering/Analytics
 ## Python
 #### Python, Visualization
 - Visualiation in Python with Matplotlib - https://resources.oreilly.com/live-training/visualization-in-python-with-matplotlib
+
+---
+## Foundations of CS
+- The Missing Semester of Your CS Education - https://missing.csail.mit.edu/ - How to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
 
 
